@@ -1,3 +1,0 @@
-print(ok)
-print(20261026_testing_pull_from_remote_to_local)
-print(20261026_testing_push_from_local_to_remote)
